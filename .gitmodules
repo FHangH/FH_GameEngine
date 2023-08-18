@@ -1,0 +1,3 @@
+[submodule "Fangh/vendor/spdlog"]
+	path = Fangh/vendor/spdlog
+	url = git@github.com:gabime/spdlog.git
