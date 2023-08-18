@@ -2,4 +2,8 @@
 bin/
 bin-int/
 
+*.vcxproj
+*.vcxproj.filters
 *.user
+
+Fangh.sln
