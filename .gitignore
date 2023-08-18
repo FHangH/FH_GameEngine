@@ -7,3 +7,5 @@ bin-int/
 *.user
 
 Fangh.sln
+
+vendor/bin/premake/!*.exe
